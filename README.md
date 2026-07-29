@@ -2,7 +2,7 @@
 
 > **OS coverage:** Steps marked `[Win]` `[Linux]` `[macOS]` are OS-specific. Steps with no label apply to all three.
 >
-> **What this guide covers:** How to configure OpenCode for maximum efficiency on a real project — config files, MCP servers, custom agents, skills, rules, and model selection. Every concept is illustrated with a concrete example from a real production project: a domain-specific consumer app built on a modality-agnostic longitudinal memory harness.
+> **What this guide covers:** How to configure OpenCode for maximum efficiency on a real project — config files, MCP servers, custom agents, skills, rules, and model selection.
 
 ---
 
