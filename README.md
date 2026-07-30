@@ -22,8 +22,7 @@
 12. [Global vs Project Config](#12-global-vs-project-config)
 13. [Putting It All Together](#13-putting-it-all-together)
 14. [Harness Structure](#14-harness-structure)
-15. [Learnings & Gotchas](#15-learnings--gotchas)
-16. [What to Do Next](#16-what-to-do-next)
+15. [What to Do Next](#16-what-to-do-next)
 
 ---
 
