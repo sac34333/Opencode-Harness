@@ -20,9 +20,9 @@
 10. [Custom Commands](#10-custom-commands)
 11. [Permissions Model](#11-permissions-model)
 12. [Global vs Project Config](#12-global-vs-project-config)
-13. [Putting It All Together](#13-putting-it-all-together)
-14. [Harness Structure](#14-harness-structure)
-15. [What to Do Next](#16-what-to-do-next)
+13. [Putting It All Together](#13-putting-it-all-together--the-project-config)
+14. [Harness Structure](#14-harness-structure--generic-template)
+15. [What to Do Next](#15-what-to-do-next)
 
 ---
 
